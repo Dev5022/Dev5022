@@ -1,11 +1,11 @@
 # Hi, I'm Dev Patel 👋
 
-Software Engineer focused on building interactive 3D visuals, scalable web applications, and AI-driven solutions. Passionate about creating seamless user experiences and solving complex problems with code.
+Software Engineer with a strong algorithmic and analytical foundation, focused on building interactive 3D visuals, scalable web applications, and AI-driven solutions. Passionate about solving complex problems through data structures, algorithms, and mathematical reasoning, while creating seamless user experiences.
 
-- 🎓 **BSc (Honours) Computer Science, Software Engineering specialization** – Trent University (GPA: 8.97/10, Dean’s Honour Roll)
-- 📍 **Peterborough, ON**
-- 🚀 **Currently exploring:** 3D Web Graphics, Distributed Systems, and AI/ML model deployment.
-- 🌱 **Always learning:** Advanced Software Architecture and Cloud Engineering.
+🎓 BSc (Honours) Computer Science, Software Engineering specialization – Trent University (GPA: 8.97/10, Dean’s Honour Roll)
+📍 Peterborough, ON
+🚀 Currently exploring: 3D Web Graphics, Distributed Systems, and AI/ML model deployment
+🌱 Always learning: Advanced Software Architecture, Cloud Engineering, and algorithmic problem solving
 
 ---
 
